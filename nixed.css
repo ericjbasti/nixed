@@ -1,0 +1,37 @@
+/*@espn*/
+.espn_go_com #global-viewport #header-wrapper{
+	position: relative;
+}
+
+.espn_go_com #global-viewport section#pane-main, 
+.espn_go_com #global-viewport.secondary section#pane-main,
+.espn_go_com #global-viewport.tertiary section#pane-main
+{
+	padding-top: 0;
+}
+
+
+/*@cnn*/
+.cnn_com #nav-header{
+	position: relative;
+}
+.cnn_com body.pg{
+	padding-top: 0;
+}
+
+
+/*@fab*/
+.fab_com div#site-canvas{
+	position: relative;
+}
+.fab_com #search_bar_id{
+	position: relative!important;
+	top: 0!important;
+}
+
+.theviewonhigh_com header{
+	position: relative;
+}
+.theviewonhigh_com .container{
+	padding-top: 0;
+}
