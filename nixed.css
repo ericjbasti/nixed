@@ -46,3 +46,12 @@
 .forever21_com .header{
 	position: relative;
 }
+
+.chicago_suntimes_com .header-fixed{
+	position: relative;
+}
+/* damn progress bar is annoying! */
+.chicago_suntimes_com .progress{ 
+	top: 0;
+	display: none!important; 
+}
