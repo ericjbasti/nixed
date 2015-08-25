@@ -35,3 +35,13 @@
 .theviewonhigh_com .container{
 	padding-top: 0;
 }
+
+
+.chicago_suntimes_com .header-fixed{
+	position: relative;
+}
+/* damn progress bar is annoying! */
+.chicago_suntimes_com .progress{ 
+	top: 0;
+	display: none!important; 
+}
