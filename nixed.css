@@ -10,6 +10,10 @@
 	padding-top: 0;
 }
 
+.espn_go_com #news-feed-content{
+	top: 0!important;
+}
+
 
 /*@cnn*/
 .cnn_com #nav-header{
@@ -17,6 +21,9 @@
 }
 .cnn_com body.pg{
 	padding-top: 0;
+}
+.cnn_com .pg-wrapper{
+	padding-top: 2em;
 }
 
 
@@ -34,4 +41,8 @@
 }
 .theviewonhigh_com .container{
 	padding-top: 0;
+}
+
+.forever21_com .header{
+	position: relative;
 }
